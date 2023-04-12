@@ -1,0 +1,8 @@
+F:\Work\DK_Company\DKCompany.Application\bin\Debug\netstandard2.0\DKCompany.Application.deps.json
+F:\Work\DK_Company\DKCompany.Application\bin\Debug\netstandard2.0\DKCompany.Application.dll
+F:\Work\DK_Company\DKCompany.Application\bin\Debug\netstandard2.0\DKCompany.Application.pdb
+F:\Work\DK_Company\DKCompany.Application\obj\Debug\netstandard2.0\DKCompany.Application.AssemblyInfoInputs.cache
+F:\Work\DK_Company\DKCompany.Application\obj\Debug\netstandard2.0\DKCompany.Application.AssemblyInfo.cs
+F:\Work\DK_Company\DKCompany.Application\obj\Debug\netstandard2.0\DKCompany.Application.csproj.CoreCompileInputs.cache
+F:\Work\DK_Company\DKCompany.Application\obj\Debug\netstandard2.0\DKCompany.Application.dll
+F:\Work\DK_Company\DKCompany.Application\obj\Debug\netstandard2.0\DKCompany.Application.pdb

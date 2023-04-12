@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Yx3kakzyOveGXnXXjmbkrFSO+9tYoW17zweGsi6DupA0O53DBu4TV1xY75W2b85HSJL5lEeaW4sakwxEh774rw==",
+  "success": true,
+  "projectFilePath": "F:\\Work\\DK\\dk_company\\DKCompany.Application\\DKCompany.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Next\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Next\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
